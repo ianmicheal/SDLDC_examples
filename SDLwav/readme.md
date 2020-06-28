@@ -6,7 +6,7 @@
 
 # I did this by request it's based on Lawrence Sebald example just to show it playing a wav file*
 
-# Update to play simple wav Copyright (C) 2016 Ian micheal
+# Update to play simple wav Copyright (C) 2020 Ian micheal
 # (c)2001 Dan Potter
 # Copyright (C) 2016 Lawrence Sebaald
 
