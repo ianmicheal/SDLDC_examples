@@ -19,6 +19,6 @@
    sine wave is what is played. Of course, more complex things are possible, but
    are left as an exercise for the reader. ;-)
 */
-
+  I did just that and used to write a callback function to play a wavfile thanks BlueCrab:)
 /*  Ian micheal Update simple wavfile playing example using bluecrabs example 
 I did this by request it's based on Lawrence Sebald example just to show it playing a wav file*/
