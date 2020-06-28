@@ -8,7 +8,7 @@
 
 # Update to play simple wav Copyright (C) 2016 Ian micheal
 # (c)2001 Dan Potter
-# Copyright (C) 2016 Lawrence Seba
+# Copyright (C) 2016 Lawrence Sebaald
 
 /* This is a basic demonstration of how to set up and play audio with SDL on the
    Dreamcast. It isn't actually meant as an example of how to do things the
