@@ -4,11 +4,11 @@
 # Based on sdl/sound/example.c By Copyright (C) 2016 Lawrence Sebald  
 #  Ian micheal Update simple wavfile playing example using bluecrabs example 
 
-# I did this by request it's based on Lawrence Sebald example just to show it playing a wav file*
+ I did this by request it's based on Lawrence Sebald example just to show it playing a wav file*
 
-# Update to play simple wav Copyright (C) 2020 Ian micheal
-# (c)2001 Dan Potter
-# Copyright (C) 2016 Lawrence Sebaald
+ Update to play simple wav Copyright (C) 2020 Ian micheal
+(c)2001 Dan Potter
+ Copyright (C) 2016 Lawrence Sebaald
 
 /* This is a basic demonstration of how to set up and play audio with SDL on the
    Dreamcast. It isn't actually meant as an example of how to do things the
